@@ -1,0 +1,85 @@
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.ingredients {
+    text-align: center;
+}
+
+.apple_pie_card {
+    border: 10px solid black;
+    border-radius: 20px;
+    height: fit-content;
+    width: fit-content;
+    background-color: bisque;
+
+
+
+
+}
+
+ul li {
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.directions {
+    text-align: center;
+
+}
+
+.ingredients h3 {
+    background-color: lightgreen;
+    border-radius: 30px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+}
+
+.directions h3 {
+    background-color: lightgreen;
+    border-radius: 30px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+ol li {
+
+    list-style-type: none;
+    font-size: large;
+    font-weight: 800;
+}
+
+button {
+    display: block;
+    background-color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 500;
+    border: white;
+    padding: 20px;
+    border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+
+
+
+}
